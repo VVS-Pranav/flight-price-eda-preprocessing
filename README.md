@@ -1,10 +1,10 @@
-# ✈️ Flight Price EDA & Data Preprocessing
+# Flight Price EDA & Data Preprocessing
 
 A data preprocessing project that prepares flight price data for machine learning by performing data cleaning, feature engineering, and categorical feature encoding.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on transforming raw flight booking data into a clean and structured dataset suitable for machine learning models.
 
@@ -20,7 +20,7 @@ The preprocessing pipeline includes:
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset contains information about flight bookings, including:
 
@@ -37,7 +37,7 @@ The dataset contains information about flight bookings, including:
 
 ---
 
-## ⚙️ Data Preprocessing Steps
+##  Data Preprocessing Steps
 
 ### 1. Data Cleaning
 - Removed missing values
@@ -61,7 +61,7 @@ Generated a clean dataset ready for machine learning model training.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -71,7 +71,7 @@ Generated a clean dataset ready for machine learning model training.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Flight-Price-EDA/
@@ -90,7 +90,7 @@ Flight-Price-EDA/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository
 
@@ -114,7 +114,7 @@ jupyter notebook
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 - Train Machine Learning models
 - Compare regression algorithms
@@ -124,7 +124,7 @@ jupyter notebook
 
 ---
 
-## 👤 Author
+##  Author
 
 **Pranav VVS**
 
